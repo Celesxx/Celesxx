@@ -1,10 +1,10 @@
 # Who I Am ?
 
-My name is Cameron Debliquy 23-year-old web developer from france and I like programming !
+My name is Cameron Debliquy 23-year-old web developer from France and I like programming !
 
 [My linkedin](https://www.linkedin.com/in/cameron-debliquy/)
 
-[Mon Cv](https://www.linkedin.com/in/cameron-debliquy-7b0916193/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAC2FGfQByZeNJiApn6tC3F9_gdhUxypDG0Y,1635462853794)/)
+[CV](https://www.linkedin.com/in/cameron-debliquy-7b0916193/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAC2FGfQByZeNJiApn6tC3F9_gdhUxypDG0Y,1635462853794)/)
 
 ## Overview
 
@@ -22,7 +22,7 @@ My name is Cameron Debliquy 23-year-old web developer from france and I like pro
 
 - 2017-2019 : Diploma Advanced Technician, computer and digital systems at EME Marseille
 
-- 2015-2017 : high school diploma STI2D SIN at EME Marseille
+- 2015-2017 : High School Diploma STI2D SIN at EME Marseille
 
 
 ## My skills
@@ -30,10 +30,10 @@ My name is Cameron Debliquy 23-year-old web developer from france and I like pro
 
 | Web technologies | Data analyst        | Android technologies| Database | DevOps |
 | :--------------- |:---------------:| -----:| ------:| ------:|
-| Javascript  |   Jupyter       |  Java | Mysql | Github actions |
-| HTML-CSS-PHP | Python            |   Abdroid studio | MongoDb | Docker
+| Javascript  |   Jupyter       |  Java | MySQL | Github actions |
+| HTML/CSS/PHP | Python            |   Android Studio | MongoDB | Docker
 | Node.js  | Tensorflow         |     |     | SYSML |
-| React.js|  ||
+| React|  ||
 | Symfony | ||
 
 [LinkedIn Assesments Certified](https://www.linkedin.com/in/cameron-debliquy/)
