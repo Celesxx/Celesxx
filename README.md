@@ -27,13 +27,14 @@ My name is Cameron Debliquy 24-year-old web developer from France and I like pro
 ## My skills
 
 
-| Web technologies | Data analyst        | Android technologies| Database | DevOps |
-| :--------------- |:---------------:| -----:| ------:| ------:|
-| Javascript  |   Jupyter       |  Java | MySQL | Github actions |
-| HTML/CSS/PHP | Python            |   Android Studio | MongoDB | Docker
-| Node.js  | Tensorflow         |     |     | SYSML |
-| React|  ||
-| Symfony | ||
+| Web technologies | Data analyst        | Android technologies| Database | DevOps | blockchain
+| :--------------- |:---------------:| -----:| ------:| ------:| --------:|
+| Javascript  |   Jupyter       |  Java | MySQL | Github actions | Solidity |
+| HTML/CSS/PHP | Python            |   Android Studio | MongoDB | Docker |
+| Node.js  | Tensorflow         |     |     | SYSML | |
+| React|  || |
+| Symfony | || |
+| Web3 | || |
 
 [LinkedIn Assesments Certified](https://www.linkedin.com/in/cameron-debliquy/)
 
