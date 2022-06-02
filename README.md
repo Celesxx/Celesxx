@@ -1,10 +1,9 @@
 # Who I Am ?
 
-My name is Cameron Debliquy 23-year-old web developer from France and I like programming !
+My name is Cameron Debliquy 24-year-old web developer from France and I like programming !
 
 [My linkedin](https://www.linkedin.com/in/cameron-debliquy/)
 
-[CV](https://www.linkedin.com/in/cameron-debliquy-7b0916193/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAC2FGfQByZeNJiApn6tC3F9_gdhUxypDG0Y,1635462853794)/)
 
 ## Overview
 
