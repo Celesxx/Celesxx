@@ -8,7 +8,7 @@ My name is Cameron Debliquy 24-year-old web developer from France and I like pro
 ## Overview
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celesxx&theme=dark&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celesxx&theme=dark&langs_count=15&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Celesxx&theme=dark&count_private=true&show_icons=true" alt="My github stats" />
