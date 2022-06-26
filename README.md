@@ -1,6 +1,11 @@
 # Who I Am ?
 
-My name is Cameron Debliquy 24-year-old web developer from France and I like programming !
+My name is Cameron Debliquy, 
+
+I'm a 24 year old developer with an L3 Licence. 
+Regarding my knowledge, I am a fullstack web developer (frontend, backend, devops) and also a blockchain developer with Solidity.
+
+Over the years I have acquired many other skills like data analysis via Jupyter with python
 
 [My linkedin](https://www.linkedin.com/in/cameron-debliquy/)
 
@@ -8,8 +13,8 @@ My name is Cameron Debliquy 24-year-old web developer from France and I like pro
 ## Overview
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celesxx&theme=dark&langs_count=15&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Celesxx&theme=dark&count_private=true&show_icons=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celesxx&theme=dark&langs_count=15&layout=compact" />
 </a>
 
 
