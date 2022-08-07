@@ -6,7 +6,7 @@ Regarding my knowledge, I am a fullstack developer (frontend, backend, devops) a
 
 Over the years I have acquired many other skills, like data analysis via Jupyter with python.
 
-[My LinkedIn](https://fr.linkedin.com/in/cameron-debliquy-7b0916193)
+[My LinkedIn](https://linkedin.com/in/cameron-debliquy-7b0916193)
 
 
 ## Overview
