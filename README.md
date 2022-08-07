@@ -1,13 +1,12 @@
 # Who I Am ?
 
-My name is Cameron Debliquy, 
+My name is Cameron Debliquy, I'm a 24 year old developer with an L3 Licence. 
 
-I'm a 24 year old developer with an L3 Licence. 
-Regarding my knowledge, I am a fullstack web developer (frontend, backend, devops) and also a blockchain developer with Solidity.
+Regarding my knowledge, I am a fullstack developer (frontend, backend, devops) and also a blockchain developer with [Solidity(https://soliditylang.org/).
 
-Over the years I have acquired many other skills like data analysis via Jupyter with python
+Over the years I have acquired many other skills, like data analysis via Jupyter with python.
 
-[My linkedin](https://www.linkedin.com/in/cameron-debliquy/)
+[My LinkedIn](https://linkedin.com/in/cameron-debliquy-7b0916193)
 
 
 ## Overview
@@ -18,7 +17,7 @@ Over the years I have acquired many other skills like data analysis via Jupyter 
 </a>
 
 
-## My formation 
+## My degrees 
 
 - 2020-2021 : Bachelor's degree Pre-Msc at Epitech Montpellier
 
@@ -40,8 +39,4 @@ Over the years I have acquired many other skills like data analysis via Jupyter 
 | Vue | || |
 | Web3 | || |
 
-[LinkedIn Assesments Certified](https://www.linkedin.com/in/cameron-debliquy/)
-
-
-
-
+[LinkedIn Assesments Certified](https://www.linkedin.com/in/cameron-debliquy-7b0916193/details/skills/)
