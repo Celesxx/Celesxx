@@ -33,10 +33,11 @@ Over the years I have acquired many other skills, like data analysis via Jupyter
 | :--------------- |:---------------:| -----:| ------:| ------:| --------:|
 | Javascript  |   Jupyter       |  Java | MySQL | Github actions | Solidity |
 | HTML/CSS/PHP | Python            |   Android Studio | MongoDB | Docker |
-| Node  | Tensorflow         |     |     | SYSML | |
+| Node  | Tensorflow         |     | firestore    | SYSML | |
 | React|  || |
 | Symfony | || |
 | Vue | || |
+| Firebase | || |
 | Web3 | || |
 
 [LinkedIn Assesments Certified](https://www.linkedin.com/in/cameron-debliquy-7b0916193/details/skills/)
